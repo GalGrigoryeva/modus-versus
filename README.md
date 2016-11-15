@@ -1,2 +1,2 @@
 # modus-versus
-HTML coding
+Training HTML coding
